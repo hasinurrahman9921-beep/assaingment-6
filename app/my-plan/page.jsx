@@ -131,7 +131,7 @@ function MyPlanContent() {
               activeTab === 'plan' ? 'text-[#ccff00]' : 'text-gray-400 hover:text-white'
             }`}
           >
-             ({plan.length})
+            Today's Plan ({plan.length})
             {activeTab === 'plan' && (
               <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#ccff00]"></span>
             )}
