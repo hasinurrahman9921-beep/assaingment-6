@@ -13,7 +13,7 @@ export default function WorkoutDetailsPage({ params }: { params: Promise<{ id: s
   useEffect(() => {
     async function fetchWorkout() {
       try {
-        const res = await fetch(`https://api.abcz.workers.dev/api/fitlog/${resolvedParams.id}`);
+        const res = await fetch(`https://api.api-store.workers.dev/api/fitlog/${resolvedParams.id}`);
         const data = await res.json();
         setWorkout(data);
       } catch (err) {
