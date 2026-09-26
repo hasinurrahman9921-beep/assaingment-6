@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-oswald {
+    font-family: var(--font-oswald), sans-serif;
+  }
+}
+
+h1, h2, h3, .font-heading {
+  font-family: var(--font-oswald), sans-serif;
+  letter-spacing: 0.03em;
+}
