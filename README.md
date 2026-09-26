@@ -17,3 +17,4 @@ FitLog is a dark-themed, modern, and no-nonsense gym companion application built
 3. **Smart Dynamic Sorting:** Sort exercises seamlessly in both the workout library and "My Plan" page by Duration, Calories Burned, or Star Rating.
 4. **Seamless State Transfer ("Mark as Done"):** Move completed exercises directly from "Today's Plan" to "Saved Workouts" in real-time with instant toast notifications and persistent summary updates.
 5. **Responsive & Modern Dark UI:** Fully responsive design tailored for Mobile, Tablet, and Desktop screens featuring custom cursor pointer interactions and clean UI aesthetics.
+ 
